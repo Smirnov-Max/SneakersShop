@@ -55,6 +55,8 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.compose.foundation)
     implementation(libs.androidx.ui)
+    implementation(libs.cronet.api)
+    implementation(libs.androidx.tools.core)
     testImplementation(libs.junit)
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.core:core-splashscreen:1.0.1")
